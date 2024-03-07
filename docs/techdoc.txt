@@ -1,0 +1,16 @@
+I am looking for an experienced ArcGIS Developer to assist with integrating critical infrastructure data into an existing ArcGIS account for renewable energy projects. The project involves incorporating the local utilities hosting capacity map, 4kv, 13kv, 27kv, 33kv, Area Substation, and underground Area substation feeders into the existing system.
+
+Requirements:
+- Proficiency in ArcGIS Developer tools and functionalities
+- Experience working with energy storage projects and renewable energy initiatives
+- Familiarity with ArcGIS hosting capacity maps and electrical infrastructure data
+- Ability to efficiently integrate data into ArcGIS platform
+- Strong attention to detail and accuracy
+
+Time Commitment:
+- The project is estimated to take approximately 5-6 hours to complete.
+
+Deadline for Applications:
+March 12, 2024.
+
+We look forward to collaborating with a skilled ArcGIS Developer to enhance our renewable energy projects.
