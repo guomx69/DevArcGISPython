@@ -93,12 +93,12 @@ map.draw(
 map.center = [34.0110, -118.8047]
 map.zoom = 14
 
-import os
+# import os
 
-file_dir = os.path.join(os.getcwd(), "home")
-if not os.path.isdir(file_dir):
-    os.mkdir(file_dir)
+# file_dir = os.path.join(os.getcwd(), "home")
+# if not os.path.isdir(file_dir):
+#     os.mkdir(file_dir)
 
-file_path = os.path.join(file_dir, "add-a-point-line-and-polygon.html")
+# file_path = os.path.join(file_dir, "add-a-point-line-and-polygon.html")
 
-map.export_to_html(file_path, title="Add a point, line, and polygon")
+# map.export_to_html(file_path, title="Add a point, line, and polygon")
