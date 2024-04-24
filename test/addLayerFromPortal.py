@@ -10,6 +10,3 @@ trailheads_item
 m = portal.map()
 m.add_layer(trailheads_item)
 m
-
-m.center = [34.09042, -118.71511]  # [latitude, longitude]
-m.zoom = 11
