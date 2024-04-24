@@ -3,6 +3,7 @@ from arcgis.gis import GIS
 from arcgis.geometry import Point,Polygon,Polyline
 
 portal =GIS()
+map=portal.map("MaliBu CA")
 
 point = Point({"x": -118.8066, "y": 34.0006, "z": 100})
 
@@ -57,8 +58,7 @@ simple_fill_symbol = {
     "outline": {"color": [255, 255, 255], "width": 1},
 }
 
-map=portal.map()
-map
+
 
 map.draw(
     shape=point,
@@ -90,8 +90,10 @@ map.draw(
     },
 )
 
-map.center = [34.0110, -118.8047]
-map.zoom = 14
+map.zoom = 11
+map
+
+
 
 # import os
 
