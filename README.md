@@ -7,6 +7,6 @@ conda install geopandas
 
 
 
-Folium vs matplotlib
+Folium(use leaflet) vs  Choropleth Maps vs matplotlib
 Geopandas use Shapely geometry engine
 SpatialEnabled Pandas(ArcGIS) use four geometry engines(shapely,ArcPy site,pyshp and fiona)
